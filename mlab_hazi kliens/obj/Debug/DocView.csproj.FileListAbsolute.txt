@@ -1,0 +1,16 @@
+c:\Klaf\DocView\bin\Debug\DocView.exe
+c:\Klaf\DocView\bin\Debug\DocView.pdb
+c:\Klaf\DocView\obj\Debug\ResolveAssemblyReference.cache
+c:\Klaf\DocView\obj\Debug\DocView.Properties.Resources.resources
+c:\Klaf\DocView\obj\Debug\DocView.csproj.GenerateResource.Cache
+c:\Klaf\DocView\obj\Debug\DocView.exe
+c:\Klaf\DocView\obj\Debug\DocView.pdb
+c:\Documents and Settings\bzolka\My Documents\Tanszek\Oktatott targyak\Kliensalkalmazások fejlesztése\03 Szoftvertervezés\Előadás\Demo\DocView\obj\Debug\DocView.exe
+c:\Documents and Settings\bzolka\My Documents\Tanszek\Oktatott targyak\Kliensalkalmazások fejlesztése\03 Szoftvertervezés\Előadás\Demo\DocView\obj\Debug\DocView.pdb
+c:\Documents and Settings\bzolka\My Documents\Tanszek\Oktatott targyak\Kliensalkalmazások fejlesztése\03 Szoftvertervezés\Előadás\Demo\DocView\bin\Debug\DocView.exe
+c:\Documents and Settings\bzolka\My Documents\Tanszek\Oktatott targyak\Kliensalkalmazások fejlesztése\03 Szoftvertervezés\Előadás\Demo\DocView\bin\Debug\DocView.pdb
+c:\Documents and Settings\bzolka\My Documents\Tanszek\Oktatott targyak\Kliensalkalmazások fejlesztése\03 Szoftvertervezés\Előadás\Demo\DocView\obj\Debug\ResolveAssemblyReference.cache
+c:\Documents and Settings\bzolka\My Documents\Tanszek\Oktatott targyak\Kliensalkalmazások fejlesztése\03 Szoftvertervezés\Előadás\Demo\DocView\obj\Debug\DocView.Properties.Resources.resources
+c:\Documents and Settings\bzolka\My Documents\Tanszek\Oktatott targyak\Kliensalkalmazások fejlesztése\03 Szoftvertervezés\Előadás\Demo\DocView\obj\Debug\DocView.csproj.GenerateResource.Cache
+c:\Documents and Settings\bzolka\My Documents\Tanszek\Oktatott targyak\Kliensalkalmazások fejlesztése\03 Szoftvertervezés\Előadás\Demo\FontEditor\obj\Debug\DocView.exe
+c:\Documents and Settings\bzolka\My Documents\Tanszek\Oktatott targyak\Kliensalkalmazások fejlesztése\03 Szoftvertervezés\Előadás\Demo\FontEditor\obj\Debug\DocView.pdb
