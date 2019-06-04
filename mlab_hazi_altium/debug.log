@@ -1,0 +1,2 @@
+[0523/182023:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Az összes szoftvercsatorna-cím használatának általában csak egy módja (protokoll/hálózat cím/port) engedélyezett. (0x2740)
+[0523/182023:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.

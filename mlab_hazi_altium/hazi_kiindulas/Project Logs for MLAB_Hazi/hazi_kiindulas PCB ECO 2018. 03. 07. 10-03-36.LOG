@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=STM_LCD2 Pin=U1-35
+Removed Pin From Net: NetName=STM_LCD0 Pin=U1-38
+Added Pin To Net: NetName=STM_LCD0 Pin=U1-35
+Added Pin To Net: NetName=STM_LCD2 Pin=U1-38
+Added Room: Name=Nucleo

@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: hazi_kiindulas.PcbDoc   2018. 03. 13.  10:48:42
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MLAB_Hazi.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             42        PTH        0.00inch (0.00mm)
+T2      43mil (1.1mm)                                             Round             85        PTH        0.00inch (0.00mm)
+T3      47mil (1.2mm)                                             Round             47        PTH        0.00inch (0.00mm)
+T4      118mil (2.997mm)                                          Round             3         PTH        0.00inch (0.00mm)
+T5      118mil (3mm)                                              Round             2         PTH        0.00inch (0.00mm)
+T6      138mil (3.5mm)                                            Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              183
+
+Total Processing Time (hh:mm:ss) : 00:00:00

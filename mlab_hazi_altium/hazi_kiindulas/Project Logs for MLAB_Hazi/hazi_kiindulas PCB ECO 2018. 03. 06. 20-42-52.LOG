@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Member From Class: ClassName=Nucleo Member=C7
+Change Component Footprint: Designator=D1 Old Footprint=FP_SMB New Footprint=FP_SMA
+Change Component Comment : Designator=Rload Old Comment=4K7 New Comment=1K
+Change Component Comment : Designator=D1 Old Comment=ZENER New Comment=TRANS SUPPR
+Change component parameters: Designator = "Rload"; Footprint = "FP_0805_RES"; UniqueID = "\THCKRJMI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Name"; Value = "1K00 0805 5% CR-05JL7----1K 0.125W (VIK)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "125mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "81-10-87"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1"; Footprint = "FP_SMA"; UniqueID = "\LLYTPHOS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Name"; Value = "6.7V Ubr 400W UNIDIR. 5V Urwm SMAJ5.0A (LFS) DO-214AC (SMA) ½AE½"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "96-00-75"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "6.7V"; VariantName = "[No Variations]"
+Added Component: Designator=Rpmos(FP_0805_RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Name"; Value = "10K0 0805 5% CR-05JL7---10K 0.125W (VIK)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "81-10-99"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C3-2
+Added Pin To Net: NetName=+5 Pin=C4-2
+Added Pin To Net: NetName=+5 Pin=C5-2
+Added Pin To Net: NetName=+5 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=Rpmos-1
+Added Pin To Net: NetName=+3 Pin=U1-16
+Change Net Name : Old Net Name=NetB1_1 New Net Name=STM_BTN1
+Change Net Name : Old Net Name=NetB2_1 New Net Name=STM_BTN2
+Change Net Name : Old Net Name=NetRd0_1 New Net Name=STM_LCD0
+Change Net Name : Old Net Name=NetRd1_1 New Net Name=STM_LCD1
+Change Net Name : Old Net Name=NetRd2_1 New Net Name=STM_LCD2
+Change Net Name : Old Net Name=NetRd3_1 New Net Name=STM_LCD3
+Change Net Name : Old Net Name=NetRd4_1 New Net Name=STM_LCD4
+Change Net Name : Old Net Name=NetRd5_1 New Net Name=STM_LCD5
+Change Net Name : Old Net Name=NetRd6_1 New Net Name=STM_LCD6
+Change Net Name : Old Net Name=NetRd7_1 New Net Name=STM_LCD7
+Added Pin To Net: NetName=STM_/CS1 Pin=U1-1
+Added Net: Name=STM_/CS1
+Added Pin To Net: NetName=STM_/CS2 Pin=U1-3
+Added Net: Name=STM_/CS2
+Added Pin To Net: NetName=STM_/OE Pin=R/oe-1
+Added Pin To Net: NetName=STM_/OE Pin=U1-61
+Added Net: Name=STM_/OE
+Added Pin To Net: NetName=STM_CS Pin=U1-54
+Added Net: Name=STM_CS
+Added Pin To Net: NetName=STM_D/I Pin=U1-52
+Added Net: Name=STM_D/I
+Added Pin To Net: NetName=STM_E Pin=U1-59
+Added Net: Name=STM_E
+Added Pin To Net: NetName=STM_INT1 Pin=U1-41
+Added Net: Name=STM_INT1
+Added Pin To Net: NetName=STM_INT2 Pin=U1-43
+Added Net: Name=STM_INT2
+Added Pin To Net: NetName=STM_PWM Pin=Rload-1
+Added Pin To Net: NetName=STM_PWM Pin=Rpmos-2
+Added Pin To Net: NetName=STM_PWM Pin=U1-55
+Added Net: Name=STM_PWM
+Added Pin To Net: NetName=STM_R/W Pin=U1-50
+Added Net: Name=STM_R/W
+Added Pin To Net: NetName=STM_RST Pin=U1-71
+Added Net: Name=STM_RST
+Added Pin To Net: NetName=STM_SCL Pin=U1-63
+Added Net: Name=STM_SCL
+Added Pin To Net: NetName=STM_SDA Pin=U1-64
+Added Net: Name=STM_SDA
+Added Pin To Net: NetName=STM_SDO Pin=U1-66
+Added Net: Name=STM_SDO
+Added Member To Class: ClassName=Nucleo Member=Component Rpmos 10K

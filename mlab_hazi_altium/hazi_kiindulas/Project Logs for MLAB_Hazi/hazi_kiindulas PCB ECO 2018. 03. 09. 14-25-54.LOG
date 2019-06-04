@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=STM_BTN1 Pin=B1-2
+Removed Pin From Net: NetName=GND Pin=B1-4
+Removed Pin From Net: NetName=STM_BTN2 Pin=B2-1
+Removed Pin From Net: NetName=STM_BTN2 Pin=B2-2
+Removed Pin From Net: NetName=GND Pin=B2-4

@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=B1-2
+Removed Pin From Net: NetName=GND Pin=B2-2
+Change Component DesignItemId : Designator=B1 Old DesignItemId=Button small New DesignItemId=Button
+Change Component DesignItemId : Designator=B2 Old DesignItemId=Button small New DesignItemId=Button
+Change Component Footprint: Designator=B1 Old Footprint=FP_BTN_SMD_3x6 New Footprint=FP_BTN_SMD
+Change Component Footprint: Designator=B2 Old Footprint=FP_BTN_SMD_3x6 New Footprint=FP_BTN_SMD
+Change Component Comment : Designator=B1 Old Comment=Button small New Comment=Button
+Change Component Comment : Designator=B2 Old Comment=Button small New Comment=Button
+Change component parameters: Designator = "B1"; Footprint = "FP_BTN_SMD"; UniqueID = "\UFUGYUML"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Name"; Value = "TACT 6x 6 4P SPST 1 FSM2JSMA (TYC) 50mA 12VDC SMD H=4.3mm 160g BLACK B. 2-1437565-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "45-05-42"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters: Designator = "B2"; Footprint = "FP_BTN_SMD"; UniqueID = "\PMAUJPVW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Name"; Value = "TACT 6x 6 4P SPST 1 FSM2JSMA (TYC) 50mA 12VDC SMD H=4.3mm 160g BLACK B. 2-1437565-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "45-05-42"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=B1-3
+Added Pin To Net: NetName=GND Pin=B2-3
+Added Pin To Net: NetName=GND Pin=B2-4

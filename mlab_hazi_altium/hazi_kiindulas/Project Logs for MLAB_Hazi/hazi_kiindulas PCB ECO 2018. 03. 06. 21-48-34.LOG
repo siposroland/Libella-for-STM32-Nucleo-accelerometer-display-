@@ -1,0 +1,17 @@
+Added Component: Designator=A1(DIL24)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Name"; Value = "Accelerometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ST tanszek"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=A1-1
+Added Pin To Net: NetName=+5 Pin=A1-2
+Added Pin To Net: NetName=GND Pin=A1-4
+Added Pin To Net: NetName=GND Pin=A1-5
+Added Pin To Net: NetName=GND Pin=A1-13
+Added Pin To Net: NetName=STM_INT2 Pin=A1-14
+Added Pin To Net: NetName=STM_INT1 Pin=A1-15
+Added Pin To Net: NetName=STM_CS Pin=A1-19
+Added Pin To Net: NetName=STM_SCL Pin=A1-20
+Added Pin To Net: NetName=STM_SDA Pin=A1-21
+Added Pin To Net: NetName=STM_SDO Pin=A1-22
+Added Member To Class: ClassName=Nucleo Member=Component A1 Accelerometer
+Added Room: Name=Nucleo

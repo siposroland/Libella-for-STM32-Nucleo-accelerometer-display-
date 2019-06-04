@@ -1,0 +1,4 @@
+Remove Pin=P1-1 From Net=STM_SDO
+Remove Pin=P1-2 From Net=STM_SDA
+Remove Pin=P1-3 From Net=STM_SCL
+Remove Pin=P1-4 From Net=STM_CS

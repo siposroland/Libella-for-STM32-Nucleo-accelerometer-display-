@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Connector_4pin New DesignItemId=Connector_5pin
+Change Component Footprint: Designator=P1 Old Footprint=FP_CONN4_2MM_180 New Footprint=FP_CONN5_TAP_254MM
+Change Component Description : Designator=P1 Old Description=4pin Connector New Description=5pin Connector
+Added Pin To Net: NetName=GND Pin=P1-5

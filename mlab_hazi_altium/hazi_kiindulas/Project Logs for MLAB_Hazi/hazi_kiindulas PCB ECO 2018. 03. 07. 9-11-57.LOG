@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=STM_LCD6 Pin=U1-42
+Removed Pin From Net: NetName=STM_LCD5 Pin=U1-44
+Removed Pin From Net: NetName=STM_CS Pin=U1-54
+Removed Pin From Net: NetName=STM_LCD7 Pin=U1-57
+Removed Pin From Net: NetName=STM_SDA Pin=U1-64
+Removed Pin From Net: NetName=STM_BTN1 Pin=U1-65
+Removed Pin From Net: NetName=STM_SDO Pin=U1-66
+Removed Pin From Net: NetName=STM_BTN2 Pin=U1-67
+Removed Pin From Net: NetName=STM_RST Pin=U1-71
+Added Component: Designator=Rrst(FP_0805_RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Name"; Value = "10K0 0805 5% CR-05JL7---10K 0.125W (VIK)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "81-10-99"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Rrst-1
+Added Pin To Net: NetName=RST Pin=Rrst-2
+Added Pin To Net: NetName=STM_BTN1 Pin=U1-2
+Added Pin To Net: NetName=STM_BTN2 Pin=U1-4
+Added Pin To Net: NetName=STM_SDA Pin=U1-40
+Added Pin To Net: NetName=STM_SDO Pin=U1-42
+Added Pin To Net: NetName=STM_CS Pin=U1-44
+Added Pin To Net: NetName=STM_RST Pin=U1-51
+Added Pin To Net: NetName=STM_LCD5 Pin=U1-65
+Added Pin To Net: NetName=STM_LCD6 Pin=U1-67
+Added Pin To Net: NetName=STM_LCD7 Pin=U1-68
+Added Member To Class: ClassName=Nucleo Member=Component Rrst 10K
+Added Room: Name=Nucleo

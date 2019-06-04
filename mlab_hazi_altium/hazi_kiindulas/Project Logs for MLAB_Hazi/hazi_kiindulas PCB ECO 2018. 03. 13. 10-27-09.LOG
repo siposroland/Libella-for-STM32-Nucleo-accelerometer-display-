@@ -1,0 +1,14 @@
+Added Component: Designator=RTrim(FP_RES_POT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5"; Value = "Enter the Resistance value and the set point into parameter fields."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "2K20 PT10LV10 (KEN) D=10 TOP ADJ. 5x10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "05-07-17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10-2200R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLCD1_18 Pin=RTrim-2
+Added Pin To Net: NetName=NetLCD1_3 Pin=RTrim-3
+Added Member To Class: ClassName=Nucleo Member=Component RTrim RPot

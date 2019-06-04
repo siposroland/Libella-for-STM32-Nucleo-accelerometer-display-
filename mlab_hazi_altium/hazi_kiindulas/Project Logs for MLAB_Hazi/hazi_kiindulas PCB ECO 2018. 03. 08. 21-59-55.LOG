@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=A1 Old Footprint=Seval New Footprint=DIL24
+Added Component: Designator=P1(FP_CONN4_2MM_180)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=STM_SDO Pin=P1-1
+Added Pin To Net: NetName=STM_SDA Pin=P1-2
+Added Pin To Net: NetName=STM_SCL Pin=P1-3
+Added Pin To Net: NetName=STM_CS Pin=P1-4
+Added Member To Class: ClassName=Nucleo Member=Component A1 Accelerometer
+Added Member To Class: ClassName=Nucleo Member=Component P1 Connector
+Added Room: Name=Nucleo

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=STM_/CS1 Pin=U1-1
+Removed Pin From Net: NetName=STM_BTN1 Pin=U1-2
+Removed Pin From Net: NetName=STM_/CS2 Pin=U1-3
+Removed Pin From Net: NetName=STM_LCD1 Pin=U1-36
+Removed Pin From Net: NetName=STM_SCL Pin=U1-39
+Removed Pin From Net: NetName=STM_SDA Pin=U1-40
+Removed Pin From Net: NetName=STM_SDO Pin=U1-42
+Removed Pin From Net: NetName=STM_CS Pin=U1-44
+Added Pin To Net: NetName=STM_SCL Pin=U1-1
+Added Pin To Net: NetName=STM_SDO Pin=U1-2
+Added Pin To Net: NetName=STM_BTN1 Pin=U1-3
+Added Pin To Net: NetName=STM_CS Pin=U1-32
+Added Pin To Net: NetName=STM_LCD1 Pin=U1-34
+Added Pin To Net: NetName=STM_SDA Pin=U1-36
+Added Pin To Net: NetName=STM_/CS1 Pin=U1-40
+Added Pin To Net: NetName=STM_/CS2 Pin=U1-42
+Added Room: Name=Nucleo

@@ -1,0 +1,6 @@
+Remove Pin=A1-14 From Net=STM_INT2
+Remove Pin=A1-15 From Net=STM_INT1
+Remove Pin=A1-19 From Net=STM_CS
+Remove Pin=A1-20 From Net=STM_SCL
+Remove Pin=A1-21 From Net=STM_SDA
+Remove Pin=A1-22 From Net=STM_SDO
